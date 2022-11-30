@@ -21,6 +21,7 @@ rustdoc-args = ["--cfg", "docsrs"]
 # an indirection through std::Formatter.
 ryu = "1.0"
 itoa = "1.0"
+wasmedge_wasi_socket = "0"
 
 # This is a dependency that already exists in url
 percent-encoding = "2.1"
